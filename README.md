@@ -7,12 +7,20 @@
 
 ## Usage
 ###### Run backend
+
+open command prompt in backend folder
+
 ```
+pip install -U flask-cors
 python classifier_flask.py
 ```
 ###### Run frontend
+
+open command prompt in frontend folder
+
 ```
 npm install
+npm i react-router-dom
 npm start
 ```
 ## Working
